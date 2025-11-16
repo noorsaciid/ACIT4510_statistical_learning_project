@@ -1,0 +1,481 @@
+Country,Age,Gender,Exercise Level,Diet Type,Sleep Hours,Stress Level,Mental Health Condition,Work Hours per Week,Screen Time per Day (Hours),Social Interaction Score,Happiness Score
+USA,19,Other,Low,Vegetarian,8.1,High,Anxiety,51,4.6,8.8,4.2
+USA,22,Male,Moderate,Vegetarian,7.1,Moderate,PTSD,58,5.5,7.6,5.5
+India,30,Female,Moderate,Keto,8.2,High,Anxiety,24,3.4,6.4,4.5
+USA,36,Female,High,Balanced,6.1,Moderate,Bipolar,30,2.4,1.6,7.0
+Japan,62,Female,High,Balanced,6.1,High,,26,5.2,6.7,8.2
+Germany,61,Female,High,Vegan,4.2,Low,PTSD,20,2.5,6.7,7.6
+Germany,52,Other,Moderate,Keto,5.0,Moderate,PTSD,50,7.6,3.4,7.5
+Japan,20,Other,High,Junk Food,7.3,High,,29,6.3,5.1,5.2
+Japan,37,Female,Low,Keto,9.3,Low,Depression,33,4.2,3.5,1.3
+USA,21,Male,Low,Balanced,7.0,Moderate,Bipolar,42,7.2,5.3,6.3
+Japan,30,Female,Moderate,Balanced,8.5,Moderate,,50,4.2,6.3,1.1
+USA,39,Other,Moderate,Balanced,7.4,Moderate,Anxiety,49,6.7,2.7,4.2
+India,58,Male,Low,Vegetarian,7.7,High,Depression,26,6.7,1.1,8.9
+India,60,Male,High,Vegetarian,4.7,Low,Anxiety,33,6.6,3.7,5.2
+Brazil,37,Other,Moderate,Vegan,7.4,High,Anxiety,29,7.0,1.8,5.0
+Canada,31,Other,Moderate,Vegetarian,6.4,Moderate,Anxiety,22,5.7,2.8,5.7
+Canada,39,Other,High,Balanced,9.3,Moderate,PTSD,54,7.4,7.4,7.2
+USA,31,Other,High,Vegan,7.1,Moderate,Depression,55,7.2,8.0,1.6
+Japan,21,Male,Moderate,Junk Food,6.3,High,Bipolar,32,4.0,6.8,4.9
+Brazil,34,Female,Moderate,Balanced,5.5,High,Depression,55,4.4,9.1,1.9
+Australia,54,Female,High,Keto,4.2,Low,Depression,33,5.1,7.0,9.4
+Australia,60,Other,Low,Balanced,8.7,Low,Anxiety,27,3.8,1.4,2.3
+USA,61,Male,High,Vegetarian,8.5,Moderate,,58,5.1,3.1,4.9
+Canada,24,Other,Moderate,Keto,3.3,High,Depression,34,7.8,2.1,2.5
+Australia,64,Male,Moderate,Keto,6.3,Moderate,PTSD,56,2.9,9.2,4.0
+Australia,57,Male,Low,Balanced,8.0,Moderate,Bipolar,50,2.5,5.2,5.9
+Japan,41,Other,Low,Vegetarian,4.1,Moderate,Anxiety,53,7.2,1.8,6.3
+Australia,55,Other,Low,Balanced,4.5,High,Bipolar,21,4.8,8.7,8.6
+USA,64,Female,Moderate,Keto,5.6,Moderate,Anxiety,52,6.9,2.4,1.6
+Australia,21,Female,Low,Keto,3.1,Low,Bipolar,45,4.0,7.3,7.8
+India,27,Female,Low,Vegetarian,7.9,Moderate,PTSD,40,4.6,1.7,5.3
+USA,20,Female,Low,Vegan,6.7,High,Bipolar,56,3.8,6.6,4.9
+USA,34,Male,Moderate,Vegan,6.7,High,Bipolar,28,6.5,5.5,9.8
+Canada,54,Female,Moderate,Junk Food,7.3,High,Anxiety,44,3.6,8.6,3.8
+Germany,54,Female,High,Keto,6.6,High,Depression,53,5.0,4.8,4.2
+Japan,21,Female,Low,Junk Food,7.5,Low,Bipolar,25,7.6,5.9,5.3
+Australia,40,Other,Low,Junk Food,5.2,High,Depression,33,6.0,5.9,9.4
+Germany,48,Female,Low,Balanced,4.0,High,Bipolar,59,3.6,2.9,5.1
+Germany,23,Female,High,Balanced,10.8,Low,Bipolar,27,4.6,4.1,1.4
+Japan,20,Female,Moderate,Balanced,5.4,Moderate,PTSD,32,7.3,4.8,1.5
+India,45,Female,High,Keto,6.9,High,,57,4.7,5.9,1.9
+Australia,50,Female,High,Vegan,7.7,High,Anxiety,46,5.7,9.0,2.4
+Canada,22,Other,Low,Junk Food,9.4,Low,,55,7.3,4.0,2.5
+USA,39,Female,High,Vegetarian,4.8,High,PTSD,27,3.3,6.1,6.5
+India,29,Male,High,Keto,7.3,Low,PTSD,27,3.2,8.3,6.8
+Germany,24,Male,Low,Keto,6.8,Low,PTSD,55,6.5,9.9,7.6
+Germany,36,Other,Moderate,Junk Food,4.9,Moderate,Depression,49,7.0,3.4,6.8
+Brazil,62,Other,Low,Vegetarian,6.7,Moderate,Anxiety,44,5.3,1.6,4.8
+Brazil,62,Other,High,Vegan,6.9,Low,Depression,25,3.1,7.5,9.6
+Canada,19,Male,High,Vegetarian,8.0,High,Depression,24,6.7,1.7,8.6
+USA,38,Male,High,Keto,7.3,Moderate,PTSD,58,3.3,9.0,1.2
+Japan,45,Male,High,Junk Food,8.4,High,Bipolar,58,3.7,8.7,3.4
+USA,39,Female,High,Vegetarian,6.7,Moderate,,39,4.0,5.4,2.9
+Brazil,54,Other,Low,Balanced,7.3,Moderate,Depression,27,3.9,8.7,4.4
+India,39,Other,Low,Junk Food,7.1,Low,,37,5.5,9.1,6.5
+Japan,28,Other,High,Balanced,5.1,Low,Bipolar,43,2.3,6.3,1.9
+India,30,Other,Low,Keto,7.3,Moderate,PTSD,44,2.3,9.8,5.2
+India,36,Female,High,Vegetarian,7.8,Moderate,PTSD,34,6.6,4.1,3.7
+Australia,37,Male,Low,Keto,7.4,Low,Bipolar,26,5.6,2.9,5.9
+Canada,40,Male,Moderate,Vegan,6.6,High,Anxiety,47,7.3,9.9,3.1
+Brazil,29,Other,Low,Balanced,5.2,Low,Depression,58,6.2,7.5,5.2
+Germany,45,Other,Low,Balanced,7.2,Moderate,Bipolar,26,4.4,1.9,5.5
+Canada,40,Female,Low,Balanced,8.4,High,,56,7.1,1.4,6.6
+India,30,Male,High,Vegan,7.5,Moderate,Anxiety,37,7.9,3.9,8.9
+Japan,57,Female,Moderate,Balanced,6.2,Low,PTSD,30,5.5,9.8,2.2
+USA,22,Male,Moderate,Balanced,6.1,Moderate,,33,5.2,4.6,2.5
+India,45,Male,Low,Balanced,6.9,Moderate,PTSD,58,7.8,6.1,9.7
+Australia,22,Male,Low,Vegetarian,8.3,Low,PTSD,39,7.3,2.5,6.7
+India,19,Female,High,Balanced,4.3,Moderate,Anxiety,56,6.5,8.2,4.3
+Brazil,38,Male,High,Vegan,7.9,High,Depression,52,7.1,9.6,7.9
+Germany,43,Other,Moderate,Vegan,6.0,Moderate,Depression,41,4.4,4.2,1.0
+Japan,19,Male,Low,Balanced,10.2,High,Depression,38,6.4,7.0,9.3
+Canada,48,Female,Moderate,Vegan,8.0,High,Bipolar,22,5.0,1.6,7.0
+Germany,51,Other,High,Balanced,5.8,High,,26,5.1,2.3,7.3
+India,43,Female,High,Junk Food,5.3,Moderate,Bipolar,33,7.8,5.2,4.1
+Germany,24,Male,High,Balanced,6.4,High,Anxiety,47,2.4,8.9,9.8
+Australia,50,Male,Low,Balanced,6.7,Moderate,PTSD,56,5.7,9.1,3.7
+Australia,38,Female,Moderate,Junk Food,4.9,High,Anxiety,34,2.1,9.7,6.2
+Brazil,36,Male,Moderate,Vegetarian,6.9,High,,22,3.3,1.8,4.0
+Australia,52,Female,Moderate,Junk Food,9.7,Moderate,,22,6.5,9.8,3.2
+Japan,23,Male,Low,Balanced,7.6,Low,PTSD,21,3.2,5.0,4.4
+Japan,26,Other,Low,Junk Food,6.7,Low,Bipolar,50,5.2,8.0,6.0
+India,47,Male,High,Junk Food,7.7,Moderate,PTSD,43,3.0,3.1,8.5
+India,45,Female,Moderate,Junk Food,4.9,High,Depression,23,7.5,7.3,4.4
+Japan,55,Female,Low,Vegetarian,6.1,High,Depression,37,4.5,5.6,1.7
+India,27,Female,Low,Balanced,7.7,Low,Bipolar,22,4.5,9.9,1.6
+Japan,62,Other,Low,Vegetarian,8.2,High,Bipolar,34,5.8,2.2,6.4
+Australia,52,Male,Low,Balanced,9.4,High,Anxiety,32,6.2,6.5,4.8
+Germany,35,Male,Moderate,Junk Food,5.0,High,,21,2.8,8.3,9.6
+Japan,46,Female,Moderate,Junk Food,7.6,Low,Bipolar,44,4.9,1.4,8.9
+Japan,40,Other,Moderate,Keto,7.0,High,Depression,45,7.9,5.4,2.1
+Japan,52,Female,High,Balanced,8.6,Low,Bipolar,40,6.4,6.7,2.1
+Canada,25,Male,High,Junk Food,6.4,High,Depression,25,7.1,4.1,1.7
+USA,21,Female,Moderate,Vegetarian,5.6,High,Bipolar,30,7.1,8.2,3.7
+Australia,61,Female,Low,Keto,7.5,High,,38,3.4,6.3,7.9
+USA,62,Other,High,Keto,5.4,High,,28,5.0,1.9,8.7
+USA,30,Other,High,Vegan,5.5,High,Depression,32,3.4,5.1,1.1
+Brazil,56,Male,Moderate,Vegetarian,7.3,Moderate,Anxiety,59,4.2,6.3,7.2
+Japan,27,Male,High,Balanced,7.5,High,,37,4.2,8.8,2.8
+Japan,50,Male,High,Keto,6.3,Low,,23,5.0,9.0,5.4
+Australia,43,Female,Low,Keto,10.2,Low,Bipolar,44,4.1,3.1,5.6
+Australia,58,Other,High,Keto,6.8,Low,Depression,51,7.9,5.5,9.6
+Australia,20,Female,High,Keto,6.5,Low,Bipolar,36,3.9,8.2,2.6
+India,58,Other,High,Balanced,9.0,Low,Depression,55,3.3,9.5,3.2
+India,19,Female,Moderate,Junk Food,7.0,Moderate,Bipolar,50,3.4,5.1,7.4
+USA,53,Female,Moderate,Vegetarian,7.9,Low,,45,4.2,4.1,4.5
+Germany,47,Male,High,Vegan,6.8,High,,34,3.9,1.1,9.9
+Japan,62,Male,High,Keto,7.3,Low,PTSD,54,2.9,4.2,3.6
+Germany,40,Female,Moderate,Vegetarian,8.5,High,PTSD,32,7.9,6.3,3.4
+Canada,43,Female,Moderate,Keto,5.5,Moderate,Bipolar,36,6.5,8.7,6.9
+India,27,Female,High,Keto,7.2,High,,47,7.5,3.0,3.5
+India,47,Other,Low,Junk Food,6.5,Moderate,,53,7.5,3.9,9.5
+Canada,50,Other,Moderate,Vegan,4.5,Low,,32,7.6,1.2,5.3
+Canada,29,Other,Low,Balanced,5.1,Moderate,Depression,30,3.0,1.6,5.7
+Canada,19,Male,High,Balanced,5.7,Low,Depression,46,2.7,2.7,7.6
+Japan,31,Other,Moderate,Vegan,6.4,High,Anxiety,46,4.6,8.6,5.1
+Brazil,50,Other,Moderate,Keto,5.8,Low,Anxiety,34,6.3,4.3,6.6
+Japan,22,Female,Moderate,Junk Food,2.5,Low,,52,6.5,4.4,8.3
+Australia,24,Female,Moderate,Vegetarian,8.5,Moderate,Depression,48,6.7,7.1,5.6
+Australia,26,Male,High,Vegetarian,4.5,High,Depression,21,7.6,9.8,5.2
+Australia,45,Male,High,Vegan,5.6,High,Bipolar,27,2.6,9.4,6.1
+Japan,57,Other,Moderate,Balanced,7.0,Moderate,Depression,39,2.7,6.1,7.3
+Japan,37,Male,Low,Junk Food,5.7,Low,Anxiety,24,6.1,2.6,8.9
+Japan,41,Male,Moderate,Vegetarian,5.3,Low,Depression,42,7.3,7.2,6.2
+Canada,59,Other,Moderate,Junk Food,3.5,High,,24,6.4,2.1,9.0
+Brazil,25,Other,Moderate,Vegan,5.5,Moderate,Anxiety,46,2.9,2.4,1.1
+Australia,64,Male,High,Vegan,7.6,Low,,36,4.7,7.6,2.3
+USA,50,Male,High,Balanced,3.0,Moderate,Depression,26,5.2,8.4,2.6
+Canada,54,Other,High,Vegan,5.6,Moderate,Anxiety,27,6.6,6.9,6.9
+USA,40,Other,Low,Vegetarian,6.5,Moderate,PTSD,41,7.8,5.7,7.4
+India,38,Female,Moderate,Junk Food,2.4,Moderate,PTSD,42,3.2,5.0,6.6
+Canada,48,Female,Low,Vegetarian,7.3,Low,Depression,31,4.0,9.8,1.5
+USA,49,Other,High,Keto,4.1,Moderate,Depression,38,7.1,6.4,4.1
+India,43,Female,High,Vegan,6.0,High,Depression,20,5.0,1.7,1.9
+USA,19,Other,High,Vegan,5.6,Low,Anxiety,21,2.4,8.5,6.8
+Germany,49,Other,Low,Keto,4.4,High,Depression,47,6.0,9.1,5.2
+Australia,58,Female,Moderate,Keto,7.7,Low,PTSD,57,7.3,4.9,9.1
+Australia,52,Female,High,Vegetarian,7.3,High,Bipolar,57,4.3,3.7,2.8
+India,49,Other,High,Vegetarian,4.9,Moderate,Depression,41,5.4,1.8,2.8
+Canada,42,Female,High,Junk Food,7.4,Low,PTSD,34,5.0,8.5,6.5
+Australia,63,Female,High,Keto,6.3,High,,32,5.5,6.0,9.3
+Australia,32,Other,Low,Vegan,7.0,High,,41,5.5,6.2,7.2
+Australia,54,Male,High,Vegetarian,7.1,Moderate,Anxiety,20,2.3,7.8,3.6
+India,58,Female,Moderate,Keto,5.0,Moderate,Depression,28,8.0,6.0,6.6
+Japan,52,Male,Moderate,Junk Food,7.1,Moderate,Bipolar,32,7.5,1.3,7.7
+Australia,62,Female,Moderate,Vegan,3.9,Low,Depression,21,5.6,2.9,6.3
+Brazil,52,Other,Low,Keto,6.1,Moderate,,48,7.0,4.7,2.9
+India,33,Male,Low,Balanced,8.5,Moderate,PTSD,30,3.4,7.3,9.0
+Australia,64,Male,High,Vegetarian,6.4,Moderate,PTSD,44,3.5,4.0,7.8
+Brazil,45,Female,Moderate,Balanced,7.1,High,Bipolar,47,4.5,9.8,3.1
+USA,47,Male,High,Keto,6.4,Moderate,Bipolar,53,5.0,3.8,8.8
+Germany,39,Female,Moderate,Vegan,4.8,Low,PTSD,58,3.3,7.2,3.4
+India,25,Male,Moderate,Junk Food,5.2,High,PTSD,33,4.6,7.0,8.7
+India,62,Male,Moderate,Junk Food,6.1,Low,Depression,47,7.4,3.5,9.7
+Australia,20,Female,Low,Balanced,7.1,Low,Anxiety,42,4.2,3.1,9.3
+Australia,57,Other,Moderate,Junk Food,6.9,Moderate,Depression,22,5.3,6.9,2.3
+USA,56,Female,Low,Vegan,7.2,High,,35,2.5,4.8,3.1
+Australia,32,Female,Low,Junk Food,5.9,Moderate,Depression,20,2.6,3.8,7.4
+Canada,54,Female,Low,Keto,6.8,High,PTSD,23,6.4,9.9,7.0
+India,29,Female,High,Keto,8.8,High,Anxiety,23,2.6,4.8,8.2
+USA,23,Female,Low,Vegan,7.0,Low,PTSD,22,4.6,2.8,1.6
+India,63,Male,Moderate,Balanced,6.3,High,PTSD,34,2.1,1.5,5.3
+USA,34,Other,Low,Junk Food,7.5,High,Anxiety,31,7.3,5.3,6.0
+USA,45,Male,Low,Junk Food,1.7,Moderate,,23,6.6,6.1,1.5
+Brazil,59,Female,Low,Junk Food,3.5,High,Bipolar,49,7.6,4.4,9.8
+India,26,Male,High,Keto,8.0,High,Depression,31,5.6,9.4,9.7
+Germany,52,Other,High,Keto,7.1,Moderate,Anxiety,32,7.4,4.8,1.7
+Brazil,39,Male,Low,Keto,7.8,High,Bipolar,24,7.4,8.7,5.6
+USA,61,Other,Low,Keto,6.7,Moderate,Anxiety,50,4.9,4.8,3.5
+Brazil,48,Male,Moderate,Vegan,7.3,Low,Anxiety,57,2.3,5.2,5.6
+Australia,62,Male,Moderate,Balanced,8.4,High,Depression,55,2.8,3.2,3.8
+India,42,Male,High,Keto,5.1,Low,,21,5.0,1.9,6.2
+USA,38,Other,High,Vegan,7.2,Low,PTSD,33,3.7,9.2,2.0
+USA,52,Other,Moderate,Balanced,7.2,Moderate,,53,2.3,8.8,8.2
+India,53,Male,High,Keto,6.0,High,,35,5.8,2.3,7.2
+India,31,Female,Moderate,Junk Food,9.2,Moderate,Bipolar,55,2.6,7.6,9.9
+Japan,38,Female,High,Keto,9.2,Low,Bipolar,35,2.7,3.6,7.7
+Canada,60,Other,Low,Keto,5.6,High,Anxiety,31,3.6,3.3,6.8
+India,32,Female,Moderate,Keto,8.3,Low,,35,6.2,4.4,8.2
+Germany,36,Male,Low,Vegetarian,6.5,Low,Depression,33,6.6,1.8,7.7
+USA,33,Male,Moderate,Vegan,4.7,High,Depression,52,7.9,4.7,9.8
+Australia,34,Female,High,Vegetarian,8.9,High,Bipolar,23,7.3,5.0,6.9
+India,26,Other,High,Vegetarian,7.2,Moderate,,47,5.5,3.8,6.7
+Brazil,49,Male,High,Vegetarian,8.5,Low,Anxiety,28,6.0,4.9,9.2
+Germany,29,Female,Moderate,Junk Food,8.6,Low,,33,2.1,7.4,1.1
+Japan,43,Male,Moderate,Balanced,4.8,Low,Depression,37,2.6,1.4,5.1
+Canada,31,Other,Low,Keto,6.0,Low,Bipolar,20,5.2,9.2,3.9
+Brazil,24,Male,Low,Balanced,5.8,Low,,38,6.9,9.7,6.2
+Germany,55,Male,High,Vegan,6.5,High,PTSD,56,4.4,2.1,6.7
+India,61,Female,Moderate,Balanced,5.6,Low,Bipolar,36,5.1,1.1,2.0
+India,58,Other,Low,Vegan,6.4,Low,Bipolar,58,7.0,7.3,4.3
+Canada,23,Other,Low,Junk Food,7.1,Moderate,PTSD,54,2.4,5.5,4.5
+Japan,64,Male,Moderate,Balanced,6.8,Moderate,PTSD,32,6.5,8.4,4.9
+Brazil,40,Male,High,Junk Food,6.8,Low,PTSD,58,4.1,9.6,3.2
+Australia,58,Other,Low,Vegan,8.8,Moderate,PTSD,34,2.4,5.1,6.3
+Brazil,22,Female,High,Balanced,4.2,Low,Anxiety,22,2.4,4.3,4.4
+Brazil,38,Male,High,Keto,6.5,Moderate,PTSD,53,3.7,6.4,4.9
+Australia,48,Other,High,Vegetarian,6.7,High,Anxiety,55,5.8,6.8,8.1
+USA,43,Male,Moderate,Balanced,7.4,Moderate,PTSD,50,3.7,7.8,4.4
+Brazil,64,Other,Moderate,Junk Food,5.7,Low,,59,7.4,9.1,1.7
+Germany,27,Male,High,Keto,4.2,High,Depression,45,4.2,4.2,1.2
+USA,25,Male,Low,Vegetarian,2.9,High,Depression,34,7.5,1.7,6.2
+Japan,49,Other,High,Vegan,6.6,Moderate,Depression,42,5.6,3.0,4.1
+USA,24,Female,Moderate,Vegetarian,4.9,High,Bipolar,30,3.0,8.5,7.5
+Brazil,46,Male,High,Vegan,4.8,High,PTSD,38,5.4,9.3,2.9
+Japan,26,Other,High,Junk Food,6.2,High,Anxiety,29,3.7,9.5,6.4
+USA,59,Other,High,Balanced,5.6,Low,Bipolar,36,5.9,9.0,2.9
+USA,39,Other,Low,Balanced,6.6,Low,,57,7.6,6.9,4.6
+Brazil,19,Male,Moderate,Keto,6.9,Low,PTSD,34,4.6,5.4,7.6
+Australia,61,Male,Moderate,Junk Food,6.2,Low,PTSD,26,2.6,3.7,5.3
+Japan,58,Male,Low,Vegan,7.4,Low,,51,6.8,3.7,3.5
+Japan,61,Female,Low,Vegetarian,6.7,High,Anxiety,40,5.4,6.2,5.9
+India,20,Other,High,Junk Food,9.8,Moderate,Bipolar,20,4.1,2.4,9.0
+Canada,38,Female,Moderate,Balanced,4.4,Low,,52,4.5,6.0,1.8
+Germany,52,Male,Moderate,Balanced,5.4,Low,Depression,37,2.6,3.2,6.1
+USA,63,Male,Low,Balanced,6.3,High,Anxiety,45,3.1,8.4,6.5
+Canada,54,Other,Low,Keto,8.0,Moderate,Bipolar,30,2.9,8.5,8.7
+India,60,Male,Moderate,Junk Food,3.7,High,Depression,48,3.4,6.8,9.3
+Germany,43,Other,Low,Vegetarian,6.8,High,PTSD,43,4.4,9.6,8.3
+USA,32,Male,Low,Junk Food,4.5,Low,Depression,38,3.2,7.2,3.8
+Brazil,23,Male,High,Vegan,7.5,Low,,50,6.4,2.4,2.4
+India,54,Other,Moderate,Keto,5.8,High,Anxiety,54,4.9,4.7,3.0
+USA,40,Other,High,Vegan,6.1,Moderate,,41,7.7,2.7,7.3
+India,59,Other,Moderate,Junk Food,6.5,Low,Bipolar,55,3.2,4.3,1.7
+Canada,31,Female,High,Balanced,7.2,Low,Bipolar,37,3.9,8.5,7.5
+Japan,21,Male,High,Junk Food,6.9,Low,,45,7.7,2.3,3.4
+Brazil,26,Other,Low,Vegan,4.7,Moderate,Anxiety,59,5.1,8.9,3.6
+Australia,53,Other,High,Balanced,7.1,Low,PTSD,21,7.9,2.6,7.4
+Brazil,61,Female,Low,Vegetarian,3.4,Moderate,Anxiety,30,7.0,8.3,4.0
+Germany,18,Female,Low,Balanced,6.6,High,Anxiety,30,6.2,2.5,3.3
+Australia,38,Female,Low,Keto,8.3,High,PTSD,30,4.5,5.3,7.3
+Germany,36,Female,High,Balanced,6.4,Low,,56,2.1,1.7,4.5
+Brazil,36,Other,High,Keto,6.2,Moderate,Bipolar,51,5.3,9.1,1.0
+Germany,63,Male,Moderate,Balanced,7.4,High,,35,5.4,6.0,5.0
+Japan,24,Male,Moderate,Keto,9.9,High,Depression,22,6.7,5.1,7.0
+Japan,45,Male,Moderate,Vegetarian,7.6,Moderate,Bipolar,25,2.6,4.6,6.9
+Canada,43,Other,High,Vegan,7.9,High,,29,6.0,4.2,9.7
+India,60,Male,Low,Keto,4.5,Moderate,Bipolar,42,4.4,7.1,4.3
+Japan,62,Female,Moderate,Junk Food,6.6,Low,Depression,38,7.7,8.4,4.0
+Japan,41,Female,High,Keto,5.8,Low,Anxiety,21,4.0,6.6,9.9
+India,64,Other,Moderate,Junk Food,5.0,High,,23,2.3,2.3,4.9
+Canada,38,Other,High,Balanced,5.4,Moderate,Bipolar,38,8.0,9.4,2.2
+Japan,55,Male,High,Keto,6.9,Moderate,Depression,35,6.5,7.1,8.8
+USA,63,Female,High,Junk Food,6.8,Low,PTSD,46,6.2,7.0,2.2
+Canada,42,Male,High,Balanced,5.6,Low,,36,2.1,3.0,7.4
+Australia,53,Female,Low,Vegan,6.2,Moderate,Anxiety,43,6.1,4.2,1.4
+Australia,36,Female,Moderate,Keto,8.7,Low,PTSD,50,3.6,8.4,3.0
+Canada,24,Female,Moderate,Keto,5.2,Low,,29,6.8,6.6,9.5
+Canada,24,Male,High,Vegan,5.1,High,,40,5.3,7.0,7.3
+Canada,58,Female,High,Balanced,6.0,Moderate,Depression,33,2.8,8.3,8.2
+Canada,55,Female,High,Vegan,8.8,High,Anxiety,41,6.7,6.2,1.3
+USA,27,Other,Moderate,Vegan,6.9,Moderate,,41,6.5,3.5,5.9
+Brazil,64,Other,Moderate,Vegan,8.0,Low,Depression,33,8.0,7.7,5.6
+Canada,45,Male,Moderate,Keto,4.2,Moderate,Depression,52,6.3,3.0,9.4
+USA,38,Female,Low,Vegetarian,7.3,High,Depression,42,4.7,4.0,8.6
+Germany,22,Male,High,Vegetarian,6.5,High,Anxiety,31,5.3,6.2,5.8
+USA,55,Female,High,Keto,7.8,Low,,57,4.8,3.0,5.4
+Brazil,27,Other,Low,Balanced,8.7,High,Anxiety,58,2.8,5.3,2.1
+Australia,32,Other,High,Balanced,6.2,Low,Anxiety,53,3.3,8.3,9.1
+India,36,Female,Low,Keto,4.8,Moderate,,56,2.0,9.4,3.5
+Australia,50,Other,Moderate,Junk Food,5.7,Moderate,Anxiety,30,7.5,8.7,1.4
+USA,39,Male,High,Vegan,10.1,Low,,25,4.8,8.5,2.6
+Germany,44,Female,Low,Balanced,8.0,Moderate,Anxiety,56,6.5,7.5,1.4
+Japan,28,Female,High,Balanced,7.9,Moderate,Depression,33,5.6,5.2,8.3
+Germany,42,Male,High,Keto,6.4,Low,PTSD,21,2.6,9.1,5.6
+Australia,58,Female,Low,Vegan,5.6,Low,PTSD,31,5.8,5.3,1.6
+USA,52,Male,Low,Keto,6.3,Moderate,Depression,21,3.7,1.6,8.0
+Japan,54,Female,Moderate,Keto,4.8,Moderate,,42,3.0,3.8,4.0
+Japan,27,Male,Moderate,Junk Food,5.9,High,Anxiety,45,5.2,1.2,1.6
+Japan,60,Male,Moderate,Balanced,8.1,Moderate,Depression,21,3.4,4.5,5.0
+Japan,49,Other,Low,Balanced,7.5,Moderate,Bipolar,47,4.0,5.1,3.1
+India,19,Other,High,Vegetarian,3.8,Low,Bipolar,45,3.8,9.1,4.1
+Canada,39,Male,Moderate,Vegan,4.0,High,,54,5.6,9.9,5.6
+Brazil,30,Male,High,Keto,5.5,Low,Anxiety,53,3.7,1.2,7.9
+Germany,33,Male,High,Vegetarian,7.9,Moderate,Bipolar,20,4.1,4.6,8.7
+Canada,52,Female,Low,Vegan,5.6,Low,PTSD,54,2.0,4.2,8.2
+Canada,19,Other,Low,Keto,7.4,Moderate,Bipolar,33,5.9,7.0,3.0
+Germany,61,Other,Low,Vegan,7.8,High,Depression,39,7.0,4.4,6.3
+Brazil,23,Other,Low,Keto,4.9,Low,PTSD,37,2.1,3.4,1.3
+Canada,36,Female,High,Vegetarian,4.4,Low,Bipolar,47,2.0,1.2,9.1
+Japan,61,Female,High,Keto,5.0,High,Bipolar,26,5.2,8.6,3.5
+India,40,Other,Moderate,Vegetarian,5.3,Low,Bipolar,51,3.2,1.3,6.8
+USA,47,Other,High,Junk Food,8.0,Low,Bipolar,34,5.5,7.2,2.9
+India,53,Other,Low,Balanced,9.3,High,Anxiety,34,5.9,7.2,3.5
+India,64,Other,Moderate,Vegetarian,6.9,Moderate,,56,6.0,3.3,6.3
+Brazil,56,Female,Moderate,Balanced,5.9,Low,Anxiety,44,4.7,6.5,1.3
+Canada,33,Female,Low,Balanced,7.9,Moderate,Anxiety,59,6.9,4.1,3.2
+Japan,49,Male,Moderate,Vegan,4.3,High,PTSD,21,7.7,7.6,8.4
+USA,33,Other,Moderate,Keto,4.7,Moderate,Anxiety,59,2.8,9.0,2.3
+Japan,64,Other,Low,Junk Food,8.2,Low,Depression,46,5.5,4.7,7.3
+India,52,Female,Moderate,Balanced,6.5,Low,Bipolar,52,6.3,4.4,3.6
+Germany,37,Other,Low,Vegetarian,3.0,Low,Depression,36,3.6,2.0,6.0
+Germany,53,Male,Moderate,Junk Food,6.6,Low,,29,2.7,9.8,4.8
+Brazil,30,Male,High,Vegan,5.5,Low,Depression,52,5.4,5.7,5.5
+Brazil,50,Other,Moderate,Vegetarian,6.8,High,Bipolar,54,4.9,2.9,5.0
+India,38,Female,High,Vegetarian,7.1,High,Anxiety,56,3.1,4.9,4.5
+Brazil,57,Female,High,Balanced,8.8,Moderate,Anxiety,33,6.7,3.3,4.1
+India,35,Female,Low,Junk Food,6.2,Low,Anxiety,52,7.4,1.0,3.4
+Japan,45,Female,Low,Balanced,8.1,High,Depression,56,4.2,1.5,8.9
+Australia,64,Female,Moderate,Vegetarian,6.6,High,Anxiety,55,5.0,5.0,7.4
+Brazil,46,Male,High,Vegan,5.7,High,Depression,51,5.1,7.9,1.4
+Canada,21,Female,High,Vegetarian,7.3,Moderate,,54,6.7,9.4,2.4
+USA,41,Other,High,Junk Food,8.1,Moderate,Anxiety,41,4.6,2.5,6.4
+Japan,23,Male,Moderate,Vegetarian,7.2,Low,Depression,38,6.4,3.4,6.4
+Brazil,30,Male,High,Vegetarian,6.4,High,Depression,50,4.9,9.7,5.8
+Australia,24,Female,High,Keto,5.2,Moderate,PTSD,27,6.4,4.9,3.5
+Japan,45,Male,Low,Vegetarian,6.9,High,Depression,55,7.2,3.5,7.5
+Australia,56,Other,Low,Balanced,7.3,High,PTSD,26,6.0,6.5,9.4
+Canada,29,Female,Moderate,Vegan,8.0,Moderate,Anxiety,45,3.8,8.7,3.9
+Australia,36,Female,Low,Keto,9.0,Low,Depression,37,6.6,2.2,3.5
+India,64,Other,Low,Vegetarian,7.1,Moderate,Bipolar,27,3.5,3.7,10.0
+Germany,57,Male,Moderate,Vegan,6.2,Low,Depression,25,7.8,5.3,8.8
+USA,52,Other,High,Vegan,3.6,Low,Anxiety,33,3.8,4.0,3.9
+USA,36,Other,Moderate,Vegetarian,4.1,Low,Bipolar,42,4.5,8.2,2.4
+Germany,44,Other,Low,Vegetarian,5.8,Moderate,Anxiety,38,7.1,3.5,8.4
+Brazil,64,Other,High,Vegan,4.5,Moderate,PTSD,36,3.1,8.1,1.7
+Japan,45,Other,Low,Junk Food,6.6,High,Depression,27,7.1,1.5,4.2
+Canada,21,Other,High,Vegetarian,6.8,High,PTSD,28,7.4,1.5,8.3
+Australia,22,Female,High,Vegan,5.7,Low,Depression,25,6.8,7.5,10.0
+Japan,29,Female,Moderate,Balanced,4.9,High,Depression,38,8.0,5.5,2.9
+Japan,29,Male,Low,Balanced,8.2,High,,46,5.4,6.1,7.8
+Canada,23,Male,Moderate,Keto,5.4,High,Anxiety,48,3.1,5.7,5.1
+India,43,Female,Low,Keto,5.5,Low,PTSD,40,6.0,2.1,4.3
+Canada,22,Female,High,Vegetarian,7.4,High,Anxiety,56,2.7,2.9,6.0
+Australia,38,Female,High,Balanced,7.5,High,PTSD,23,6.8,6.6,4.8
+Australia,33,Male,Low,Vegan,6.8,Low,,28,7.2,4.7,2.7
+Canada,30,Female,Low,Vegan,8.3,Moderate,Bipolar,47,6.8,1.9,6.5
+Canada,24,Other,Moderate,Balanced,6.6,Moderate,Bipolar,27,7.4,5.5,4.4
+Brazil,42,Other,Moderate,Keto,5.6,Low,Anxiety,23,6.6,6.4,2.5
+India,63,Male,Low,Vegan,6.2,High,PTSD,37,3.9,9.4,6.4
+Australia,54,Male,Low,Keto,5.5,High,Depression,23,3.7,8.2,8.7
+USA,38,Other,High,Vegan,6.3,Low,PTSD,48,5.9,2.1,5.7
+Australia,56,Female,Low,Balanced,8.1,Moderate,,48,5.9,2.7,7.6
+Canada,29,Female,High,Vegan,7.9,High,Bipolar,30,3.7,4.0,1.1
+Australia,38,Other,Low,Vegan,8.1,Low,Depression,34,2.8,9.6,9.9
+Germany,33,Female,Low,Vegan,5.4,Moderate,Depression,50,4.6,7.5,6.5
+Canada,39,Female,High,Balanced,9.6,Low,PTSD,20,7.4,3.5,2.6
+USA,22,Other,Low,Vegetarian,9.1,Low,Depression,26,7.2,8.9,7.0
+Brazil,28,Female,High,Vegan,4.8,Low,Depression,51,3.4,9.3,1.1
+Brazil,58,Other,High,Vegan,6.8,Moderate,PTSD,36,6.2,1.4,6.7
+Canada,29,Male,Low,Keto,5.4,Moderate,Anxiety,24,2.8,9.1,4.4
+USA,27,Other,Low,Keto,7.9,Moderate,PTSD,32,2.4,6.2,6.5
+India,26,Other,Low,Vegan,5.3,Low,Depression,45,3.3,4.1,9.0
+Australia,59,Female,Low,Vegetarian,7.1,Low,PTSD,52,7.8,8.0,2.1
+Australia,23,Other,High,Junk Food,7.1,Moderate,Depression,31,4.8,7.2,4.7
+India,27,Female,Low,Vegan,6.5,Low,Anxiety,38,7.0,4.9,6.8
+Japan,52,Female,Moderate,Balanced,6.8,High,Depression,46,7.6,5.8,9.9
+Brazil,36,Other,High,Vegetarian,5.2,Low,Depression,27,3.5,6.6,6.7
+Australia,30,Male,Low,Vegetarian,6.9,High,Anxiety,27,6.5,1.2,2.6
+India,46,Male,Moderate,Vegan,9.6,High,Bipolar,33,3.8,1.1,5.4
+USA,34,Other,Low,Vegan,6.4,High,Bipolar,42,5.9,1.9,2.5
+India,45,Female,Low,Junk Food,6.1,Moderate,PTSD,55,2.5,6.7,1.9
+Canada,55,Male,Low,Junk Food,9.3,High,,44,4.9,4.6,3.5
+Germany,18,Male,Low,Keto,6.2,High,Bipolar,25,5.1,10.0,4.4
+Japan,33,Female,High,Keto,6.8,Low,Anxiety,46,6.2,9.5,5.6
+India,57,Male,Low,Balanced,5.6,Moderate,Anxiety,46,4.1,3.8,1.4
+Australia,45,Male,Low,Vegan,7.6,High,PTSD,34,2.7,4.9,4.0
+Germany,42,Male,Moderate,Keto,3.9,Low,Depression,37,3.8,7.7,4.7
+Japan,54,Female,High,Junk Food,8.7,High,PTSD,23,7.8,4.7,4.0
+Brazil,54,Female,Moderate,Junk Food,6.2,High,PTSD,38,4.2,1.5,9.1
+Germany,21,Male,Low,Vegetarian,6.1,Moderate,Depression,45,2.4,5.0,1.5
+India,58,Male,High,Balanced,7.9,Moderate,Bipolar,26,7.6,2.2,6.3
+Canada,32,Other,Moderate,Junk Food,5.8,Moderate,,22,4.6,5.8,7.7
+Australia,18,Male,High,Balanced,5.2,High,Depression,20,7.3,4.5,8.5
+Brazil,26,Female,Moderate,Vegetarian,7.6,Low,Anxiety,29,7.1,5.0,8.1
+USA,54,Female,Low,Junk Food,8.0,High,,45,3.3,2.4,2.4
+Brazil,60,Male,Low,Vegetarian,7.4,Moderate,Bipolar,20,6.2,8.7,3.6
+Canada,49,Male,Moderate,Vegan,5.4,High,PTSD,28,2.4,6.4,6.2
+USA,44,Other,High,Vegan,8.7,Low,PTSD,53,7.5,3.8,8.4
+Germany,55,Other,Moderate,Vegetarian,4.9,Moderate,Depression,52,3.9,6.4,3.5
+USA,57,Female,High,Vegan,8.2,Low,Depression,42,6.4,4.3,7.5
+Canada,47,Other,Moderate,Balanced,7.2,Moderate,Anxiety,55,2.7,1.2,5.9
+Japan,64,Female,Moderate,Balanced,4.4,High,PTSD,24,4.7,4.3,3.9
+USA,51,Male,High,Vegan,6.6,High,Depression,36,4.4,9.8,2.5
+Australia,25,Other,Moderate,Junk Food,5.5,Low,PTSD,40,6.9,3.7,8.5
+India,25,Other,Moderate,Keto,5.1,Moderate,,45,6.9,4.4,7.6
+Australia,19,Male,Low,Vegan,4.6,Low,Bipolar,55,6.7,4.9,6.9
+Japan,42,Other,Moderate,Vegetarian,8.0,Low,Depression,59,5.9,5.7,3.3
+USA,60,Other,High,Vegetarian,8.9,Low,PTSD,40,7.5,4.7,9.5
+Brazil,51,Other,High,Junk Food,6.4,High,,49,5.6,5.5,3.7
+Brazil,53,Female,Moderate,Balanced,7.0,High,,26,2.0,3.4,5.7
+India,53,Other,High,Vegetarian,7.0,Moderate,,39,3.8,3.9,6.3
+Germany,34,Other,Low,Balanced,5.7,Low,Bipolar,31,2.6,3.1,3.5
+India,38,Male,Moderate,Balanced,6.8,Low,Bipolar,54,6.1,9.5,1.2
+India,40,Male,Low,Vegetarian,3.7,High,Anxiety,44,7.4,7.2,5.1
+Canada,26,Female,Moderate,Junk Food,6.5,High,PTSD,59,4.8,9.9,8.8
+Japan,58,Female,Low,Junk Food,6.6,Low,Depression,35,3.0,6.3,3.6
+USA,55,Other,Moderate,Vegan,5.1,Moderate,Bipolar,23,7.5,8.7,8.4
+Germany,60,Female,High,Balanced,4.2,High,Depression,57,6.4,6.3,8.4
+Japan,53,Female,High,Keto,8.0,Moderate,PTSD,31,6.4,3.3,4.2
+Australia,21,Other,Moderate,Vegan,5.2,Moderate,Bipolar,51,6.9,2.5,3.6
+India,24,Male,Moderate,Junk Food,7.4,Low,Depression,38,5.9,5.8,6.9
+Australia,38,Other,High,Balanced,6.8,Moderate,Anxiety,48,2.6,3.9,1.3
+Brazil,46,Male,Low,Vegetarian,7.2,Moderate,Depression,27,3.9,10.0,2.0
+USA,52,Male,High,Keto,8.0,Moderate,PTSD,52,7.2,5.8,6.8
+Australia,28,Male,High,Keto,7.2,High,Anxiety,31,4.6,6.6,7.7
+Japan,31,Other,Moderate,Balanced,6.3,Low,,47,7.6,9.4,5.9
+Japan,49,Male,High,Vegan,5.7,Moderate,Bipolar,39,2.9,6.7,1.1
+Brazil,38,Other,High,Balanced,3.9,High,PTSD,38,4.1,8.4,9.7
+India,55,Male,High,Balanced,3.5,Moderate,PTSD,50,5.8,6.4,7.4
+Canada,40,Female,High,Balanced,6.0,High,Anxiety,36,7.1,1.6,5.6
+India,42,Female,Moderate,Keto,5.2,Moderate,Anxiety,42,6.6,8.2,5.6
+India,19,Male,High,Balanced,5.0,High,Bipolar,52,7.8,9.9,7.9
+Brazil,41,Male,Moderate,Vegan,4.6,Moderate,Bipolar,22,6.4,3.5,8.8
+Australia,42,Male,Low,Balanced,5.3,Moderate,PTSD,57,5.9,5.7,4.5
+Australia,29,Male,High,Balanced,5.3,High,Anxiety,51,6.4,4.3,6.8
+Brazil,24,Other,Moderate,Junk Food,6.2,Low,PTSD,38,3.9,6.6,2.2
+India,46,Other,Low,Keto,6.7,Moderate,Bipolar,36,5.7,1.3,8.3
+India,51,Other,Low,Balanced,4.9,High,Bipolar,38,4.6,9.6,8.1
+Australia,23,Male,Moderate,Balanced,7.1,Moderate,Bipolar,49,3.1,3.5,9.3
+Brazil,61,Other,Moderate,Vegetarian,5.9,Low,Bipolar,30,5.9,2.4,2.3
+Germany,48,Male,Moderate,Balanced,9.8,High,PTSD,25,7.2,1.7,2.3
+Germany,51,Other,High,Balanced,7.4,Low,Anxiety,59,6.3,3.2,6.2
+Canada,29,Other,Moderate,Junk Food,6.9,High,,34,3.3,8.7,2.3
+Japan,28,Other,Low,Balanced,5.9,High,Bipolar,40,5.8,9.5,2.8
+USA,35,Male,High,Vegetarian,6.6,High,Depression,50,3.8,8.6,5.1
+USA,52,Female,High,Balanced,4.6,Moderate,,32,6.3,3.7,6.8
+Brazil,27,Male,Moderate,Vegetarian,7.7,High,PTSD,22,4.8,1.5,1.7
+Brazil,33,Female,Low,Keto,8.6,Moderate,,44,2.0,3.1,7.3
+Germany,48,Female,Moderate,Vegan,6.2,Low,,50,6.1,3.3,2.0
+Japan,32,Male,High,Keto,7.2,High,Anxiety,42,5.2,8.3,9.2
+Brazil,63,Male,Moderate,Vegetarian,7.1,High,PTSD,52,3.4,9.0,5.6
+Canada,27,Other,Low,Balanced,6.0,Low,Anxiety,38,7.4,8.6,4.9
+Australia,31,Female,High,Keto,11.1,Moderate,Anxiety,21,2.4,7.3,3.0
+Brazil,37,Other,Low,Vegan,8.5,High,Bipolar,31,5.5,1.5,6.8
+Japan,22,Other,High,Junk Food,6.5,Low,,50,7.2,1.6,8.6
+Brazil,51,Female,Low,Keto,5.3,Low,,36,5.8,8.3,6.2
+Germany,62,Male,Low,Vegan,7.6,High,,35,6.9,3.0,6.6
+Canada,41,Female,Moderate,Vegetarian,9.1,Low,Anxiety,26,5.2,4.0,8.2
+USA,32,Female,Low,Keto,7.0,High,PTSD,44,2.1,7.3,9.2
+Japan,21,Female,Moderate,Vegetarian,6.1,Low,PTSD,39,3.3,2.4,7.6
+Brazil,57,Female,Low,Vegan,4.7,High,PTSD,28,4.1,4.2,2.3
+USA,34,Other,Moderate,Keto,7.0,High,,23,5.9,4.3,8.4
+Canada,51,Female,Low,Balanced,7.0,High,Bipolar,53,4.5,3.3,3.1
+Canada,34,Male,Moderate,Keto,7.5,High,PTSD,45,2.3,9.4,3.8
+Japan,47,Male,High,Junk Food,7.4,Moderate,,25,3.2,3.1,1.4
+India,35,Male,High,Keto,7.6,High,Depression,25,6.5,5.9,1.4
+Brazil,50,Male,Moderate,Keto,7.1,Moderate,,51,7.7,6.6,5.3
+USA,29,Female,Moderate,Vegetarian,4.6,Low,Bipolar,21,7.7,7.7,9.1
+Germany,51,Female,High,Junk Food,7.1,Moderate,Bipolar,47,4.4,1.8,9.7
+Canada,47,Female,Low,Vegetarian,7.5,Moderate,Bipolar,47,2.2,9.0,7.0
+USA,43,Male,Low,Vegetarian,8.4,Low,Anxiety,49,2.8,5.4,9.6
+USA,50,Female,High,Junk Food,5.7,High,,23,5.5,9.2,8.7
+Australia,43,Other,Moderate,Junk Food,6.1,Moderate,Anxiety,50,5.9,9.1,4.1
+USA,38,Male,Low,Keto,5.9,High,Bipolar,34,6.7,3.2,1.8
+India,61,Male,Moderate,Keto,9.6,High,Anxiety,20,7.6,5.3,3.9
+Brazil,45,Female,Moderate,Vegetarian,5.7,Moderate,PTSD,44,2.4,8.7,2.2
+India,42,Male,Low,Keto,7.4,High,Depression,24,5.8,1.4,6.1
+Australia,21,Other,Low,Balanced,5.8,Moderate,PTSD,30,5.0,7.9,3.6
+Germany,34,Female,High,Vegetarian,4.2,Moderate,Anxiety,34,3.2,3.3,1.4
+Germany,61,Other,Moderate,Vegan,5.8,High,Depression,47,4.8,2.8,4.8
+Australia,31,Male,Moderate,Vegetarian,5.4,High,PTSD,25,3.3,2.5,5.8
+India,63,Other,Moderate,Balanced,5.7,Moderate,,31,6.1,3.1,7.5
+USA,53,Female,Low,Junk Food,5.2,High,Bipolar,46,5.4,5.6,2.8
+India,18,Male,High,Keto,4.5,High,,41,3.7,3.5,6.3
+Japan,63,Other,Moderate,Junk Food,7.4,Moderate,PTSD,27,6.8,5.1,8.5
+Japan,50,Male,Low,Vegetarian,4.8,High,Depression,32,2.1,4.8,2.8
+Australia,63,Female,Moderate,Balanced,6.2,Low,PTSD,49,2.6,4.6,4.9
+Germany,32,Female,Low,Vegetarian,4.4,Moderate,Depression,40,5.1,7.3,4.5
+Germany,52,Other,High,Keto,3.8,Low,Anxiety,27,7.2,9.5,4.7
+USA,57,Other,High,Vegan,5.6,Low,Depression,41,7.5,5.6,9.1
+Germany,55,Female,Moderate,Vegan,6.0,High,Anxiety,52,7.0,6.2,8.4
+Germany,40,Female,Moderate,Vegan,8.6,Low,PTSD,27,6.3,4.8,2.8
+Canada,48,Male,Moderate,Keto,4.9,High,PTSD,31,7.8,2.2,9.0
+Germany,42,Male,High,Keto,8.1,Low,Bipolar,29,8.0,9.4,3.8
+Japan,26,Female,Moderate,Balanced,9.8,Low,Bipolar,57,4.2,5.8,7.1
+Canada,43,Other,Moderate,Vegetarian,5.7,Low,,51,7.8,7.3,8.2
+Canada,27,Other,Moderate,Vegetarian,6.1,Low,,58,6.1,9.8,6.4
+India,24,Other,Low,Vegetarian,6.2,Low,PTSD,42,6.5,7.8,2.2
+USA,36,Female,Low,Junk Food,9.5,Moderate,PTSD,21,3.6,3.5,1.4
+Australia,29,Male,Moderate,Vegan,3.9,High,Bipolar,25,4.9,6.4,6.9
+Brazil,52,Female,Low,Junk Food,5.9,Moderate,Anxiety,31,6.1,7.3,1.5
+Australia,44,Male,Moderate,Keto,6.3,Low,,46,6.1,8.0,9.6
+Canada,45,Male,High,Balanced,6.9,Moderate,Anxiety,22,4.9,5.8,4.1
+Japan,56,Male,Low,Vegetarian,6.7,High,Anxiety,43,5.0,4.5,2.2
+Japan,61,Other,Low,Vegetarian,2.7,High,Bipolar,46,5.3,2.4,5.4
+Japan,57,Female,Low,Keto,6.9,High,Anxiety,36,6.9,1.7,8.4
+Australia,49,Other,Low,Balanced,6.7,Low,Bipolar,46,3.2,1.2,2.2
+Brazil,28,Male,Low,Vegetarian,4.8,Low,PTSD,28,6.0,4.6,7.3
+India,57,Female,High,Junk Food,8.2,Low,Depression,45,5.9,6.1,5.3

@@ -1,0 +1,317 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "64a168b0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "from sklearn.model_selection import train_test_split\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "id": "416f2672",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(\n",
+    "    r'C:\\Users\\sacii\\OneDrive\\Desktop\\Oslomet\\ACIT4510 Statistical learning\\ACIT4510_statistical_learning_project\\data\\raw\\Mental_Health_Lifestyle_Dataset.csv'\n",
+    ")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "ebfcc7d0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pd.set_option('display.max_columns', None)  # Show all columns\n",
+    "pd.set_option('display.max_rows', None)     # Show all rows"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "45c0f137",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(3000, 12)"
+      ]
+     },
+     "execution_count": 29,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.shape\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "f222eef0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Country</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>Gender</th>\n",
+       "      <th>Exercise Level</th>\n",
+       "      <th>Diet Type</th>\n",
+       "      <th>Sleep Hours</th>\n",
+       "      <th>Stress Level</th>\n",
+       "      <th>Mental Health Condition</th>\n",
+       "      <th>Work Hours per Week</th>\n",
+       "      <th>Screen Time per Day (Hours)</th>\n",
+       "      <th>Social Interaction Score</th>\n",
+       "      <th>Happiness Score</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>Brazil</td>\n",
+       "      <td>48</td>\n",
+       "      <td>Male</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Vegetarian</td>\n",
+       "      <td>6.3</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>21</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>7.8</td>\n",
+       "      <td>6.5</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Australia</td>\n",
+       "      <td>31</td>\n",
+       "      <td>Male</td>\n",
+       "      <td>Moderate</td>\n",
+       "      <td>Vegan</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>PTSD</td>\n",
+       "      <td>48</td>\n",
+       "      <td>5.2</td>\n",
+       "      <td>8.2</td>\n",
+       "      <td>6.8</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>Japan</td>\n",
+       "      <td>37</td>\n",
+       "      <td>Female</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Vegetarian</td>\n",
+       "      <td>7.2</td>\n",
+       "      <td>High</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>43</td>\n",
+       "      <td>4.7</td>\n",
+       "      <td>9.6</td>\n",
+       "      <td>9.7</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>Brazil</td>\n",
+       "      <td>35</td>\n",
+       "      <td>Male</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Vegan</td>\n",
+       "      <td>7.2</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Depression</td>\n",
+       "      <td>43</td>\n",
+       "      <td>2.2</td>\n",
+       "      <td>8.2</td>\n",
+       "      <td>6.6</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>Germany</td>\n",
+       "      <td>46</td>\n",
+       "      <td>Male</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Balanced</td>\n",
+       "      <td>7.3</td>\n",
+       "      <td>Low</td>\n",
+       "      <td>Anxiety</td>\n",
+       "      <td>35</td>\n",
+       "      <td>3.6</td>\n",
+       "      <td>4.7</td>\n",
+       "      <td>4.4</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     Country  Age  Gender Exercise Level   Diet Type  Sleep Hours  \\\n",
+       "0     Brazil   48    Male            Low  Vegetarian          6.3   \n",
+       "1  Australia   31    Male       Moderate       Vegan          4.9   \n",
+       "2      Japan   37  Female            Low  Vegetarian          7.2   \n",
+       "3     Brazil   35    Male            Low       Vegan          7.2   \n",
+       "4    Germany   46    Male            Low    Balanced          7.3   \n",
+       "\n",
+       "  Stress Level Mental Health Condition  Work Hours per Week  \\\n",
+       "0          Low                     NaN                   21   \n",
+       "1          Low                    PTSD                   48   \n",
+       "2         High                     NaN                   43   \n",
+       "3          Low              Depression                   43   \n",
+       "4          Low                 Anxiety                   35   \n",
+       "\n",
+       "   Screen Time per Day (Hours)  Social Interaction Score  Happiness Score  \n",
+       "0                          4.0                       7.8              6.5  \n",
+       "1                          5.2                       8.2              6.8  \n",
+       "2                          4.7                       9.6              9.7  \n",
+       "3                          2.2                       8.2              6.6  \n",
+       "4                          3.6                       4.7              4.4  "
+      ]
+     },
+     "execution_count": 30,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.head(5)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e8e0269b",
+   "metadata": {},
+   "source": [
+    "##### Stratifying on binned Happiness Score keeps the target distribution consistent across train, eval, and test sets. Since the score is continuous, qcut bins it into quantiles so stratification works. This prevents imbalanced splits, reduces bias, and stabilizes model evaluation by ensuring all subsets represent the same range of happiness values."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "814834be",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "strat = pd.qcut(df[\"Happiness Score\"], q=10, duplicates=\"drop\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "00305a92",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train_df, test_df = train_test_split(df, test_size=0.20, random_state=42, stratify=strat)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "fd067519",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "strat_train = pd.qcut(train_df[\"Happiness Score\"], q=10, duplicates=\"drop\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "f8be9a3f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "train_df, eval_df = train_test_split(train_df, test_size=0.20, random_state=42, stratify=strat_train)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "481de4db",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "save_path = r'C:\\Users\\sacii\\OneDrive\\Desktop\\Oslomet\\ACIT4510 Statistical learning\\ACIT4510_statistical_learning_project\\data\\raw'\n",
+    "\n",
+    "train_df.to_csv(f\"{save_path}\\\\train_df.csv\", index=False)\n",
+    "test_df.to_csv(f\"{save_path}\\\\test_df.csv\", index=False)\n",
+    "eval_df.to_csv(f\"{save_path}\\\\eval_df.csv\", index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "86f5c880",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Training set: (1920, 12)\n",
+      "Evaluation set: (480, 12)\n",
+      "Test set: (600, 12)\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Training set:\", train_df.shape)\n",
+    "print(\"Evaluation set:\", eval_df.shape)\n",
+    "print(\"Test set:\", test_df.shape)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "acit4510-statistical-learning-project",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
